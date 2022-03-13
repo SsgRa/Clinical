@@ -16,7 +16,7 @@ class Building {
   }
 
   collide() {}
-
+//build rect
   show() {
     noFill();
     strokeWeight(4);

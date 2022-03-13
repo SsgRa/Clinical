@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  display: block;
+  width:100px;
+  height:200px;
+}
+
+label {
+  color: #000;
+}
+
